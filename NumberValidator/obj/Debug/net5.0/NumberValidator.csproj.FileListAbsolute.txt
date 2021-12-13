@@ -1,0 +1,16 @@
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\bin\Debug\net5.0\NumberValidator.exe
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\bin\Debug\net5.0\NumberValidator.deps.json
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\bin\Debug\net5.0\NumberValidator.runtimeconfig.json
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\bin\Debug\net5.0\NumberValidator.runtimeconfig.dev.json
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\bin\Debug\net5.0\NumberValidator.dll
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\bin\Debug\net5.0\ref\NumberValidator.dll
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\bin\Debug\net5.0\NumberValidator.pdb
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\obj\Debug\net5.0\NumberValidator.csprojAssemblyReference.cache
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\obj\Debug\net5.0\NumberValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\obj\Debug\net5.0\NumberValidator.AssemblyInfoInputs.cache
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\obj\Debug\net5.0\NumberValidator.AssemblyInfo.cs
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\obj\Debug\net5.0\NumberValidator.csproj.CoreCompileInputs.cache
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\obj\Debug\net5.0\NumberValidator.dll
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\obj\Debug\net5.0\ref\NumberValidator.dll
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\obj\Debug\net5.0\NumberValidator.pdb
+C:\Users\Magda\source\repos\NumberValidator\NumberValidator\obj\Debug\net5.0\NumberValidator.genruntimeconfig.cache

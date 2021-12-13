@@ -6,7 +6,32 @@ namespace NumberValidator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Podaj liczbę całkowitą");
+            var numberToValid = Getnumber();
+
+            if(numberToValid % 2 ==0)
+            {
+                Console.WriteLine("Podana liczba jest parzysta");
+            }
+            else
+            {
+                Console.WriteLine("Podana liczbe jest nieparzysta");
+            }
+
+            Console.ReadLine();
+        }
+
+        private static int Getnumber()
+        {
+            while(true)
+            {
+                if(!int.TryParse(Console.ReadLine(), out int number))
+                {
+                    Console.WriteLine("Podany ciag naków nie jest liczba całkowita. Podaj liczbe całkowita");
+                    continue;
+                }
+                return number;
+            }
         }
     }
 }
