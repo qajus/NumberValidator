@@ -27,7 +27,7 @@ namespace NumberValidator
             {
                 if(!int.TryParse(Console.ReadLine(), out int number))
                 {
-                    Console.WriteLine("Podany ciag naków nie jest liczba całkowita. Podaj liczbe całkowita");
+                    Console.WriteLine("Podany ciag naków nie jest liczbą całkowita. Podaj liczbe całkowita");
                     continue;
                 }
                 return number;
