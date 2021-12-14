@@ -7,7 +7,7 @@ namespace NumberValidator
         static void Main(string[] args)
         {
             Console.WriteLine("Podaj liczbę całkowitą");
-            var numberToValid = Getnumber();
+            var numberToValid = GetNumber();
 
             if(numberToValid % 2 ==0)
             {
@@ -21,7 +21,7 @@ namespace NumberValidator
             Console.ReadLine();
         }
 
-        private static int Getnumber()
+        private static int GetNumber()
         {
             while(true)
             {
